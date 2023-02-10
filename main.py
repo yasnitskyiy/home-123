@@ -58,3 +58,9 @@
 
 # git restore --staged прибрати їх з index
 
+
+
+# ** ХОРОШІ КОМІТИ **
+# Commit early. Commit often
+
+
