@@ -1,9 +1,1 @@
-print('hello')
-sdfsdf
-sdfsdf
-xcvxcxvxcv
-xcvxcv
-ad
-as
-defas
-dsa
+print('correct 222 file')
