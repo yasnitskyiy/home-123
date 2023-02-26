@@ -7,3 +7,5 @@ else:
     print('NO')
 
 print('WORK')
+
+print('change main')
