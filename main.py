@@ -1,4 +1,5 @@
 print('hello world')
+print('we work')
 
 a = input()
 b = input()
