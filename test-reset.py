@@ -1,3 +1,7 @@
+print('third changes start')
+print('***')
+print('third changes end')
+
 print('first changes start')
 print('***')
 
