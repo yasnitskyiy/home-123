@@ -12,3 +12,7 @@ while i < 5:
     num = input()
     print(num)
 print('while end')
+
+
+def func():
+    print('work')
